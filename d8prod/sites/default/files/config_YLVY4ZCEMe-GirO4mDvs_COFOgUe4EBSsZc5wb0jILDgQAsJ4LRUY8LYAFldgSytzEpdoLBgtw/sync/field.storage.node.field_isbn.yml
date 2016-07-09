@@ -1,0 +1,20 @@
+uuid: c5ab732b-2666-4208-afff-6037d50bdb6a
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_isbn
+field_name: field_isbn
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

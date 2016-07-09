@@ -1,0 +1,14 @@
+uuid: ea9afe07-c586-4740-8b8d-35fc1b391b03
+name: 'D8 Activities Dev  Site'
+mail: balakiruba@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

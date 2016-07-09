@@ -1,0 +1,12 @@
+uuid: bff1b7d6-43c8-4bc7-a45d-183fb034278b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - balakiruba@gmail.com
+reply: ''
+weight: 0
