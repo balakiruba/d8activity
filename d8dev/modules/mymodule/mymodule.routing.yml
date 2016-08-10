@@ -1,0 +1,7 @@
+config_form_config:
+  path: '/mymodule/config'
+  defaults:
+    _form: '\Drupal\mymodule\Form\ConfigForm'
+    _title: 'This is a Test form'
+  requirements:
+    _permission: 'administer content'
