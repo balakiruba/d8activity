@@ -1,0 +1,7 @@
+batch_example.update_node_example:
+  path: '/batch-example/update'
+  defaults:
+    _form: '\Drupal\batch_example\Form\UpdateNodeForm'
+    _title: 'Batch Example'
+  requirements:
+    _permission: 'access content'
